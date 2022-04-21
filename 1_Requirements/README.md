@@ -5,10 +5,10 @@
  # PRINCIPLE
   The microprocessor, which controls the motor speed and generates pulses of varied width for pulse width modulation, is at the heart of the speed controller system.       Push buttons are used to modify the motor's speed.
  # COMPONENTS AND SUPPLIES
-   ATMEGA 32
-   3 Pushbuttons 
-   3 Pushbuttons 
-   DC motor with BJT transistor
+  *ATMEGA 32
+  *3 Pushbuttons 
+  *3 Pushbuttons 
+  *DC motor with BJT transistor
  # ADVANTAGES
   Protection against short circuits
   High efficiency and quiet operation over a wide speed range
